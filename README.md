@@ -1,5 +1,9 @@
 # mental_health_tech_survey_visualization
-Out of interest in exploring available Python packages for interactive dashboards, I decided to test the Panel Python package for EDA on a real data Kaggle 2014 mental health work survey. Sample of the localhost can be seen in the screenshot below:
+Out of interest in exploring available Python packages for interactive dashboards, I decided to test the Panel Python package for EDA on a real data Kaggle 2014 mental health work survey.
+
+Link to the original dataset here: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+
+A sample of the localhost can be seen in the screenshot below:
 
 ![image](https://github.com/ssk0011/mental_health_tech_survey_visualization/assets/16009336/6c08abdb-f302-43c4-979f-87365534b853)
 
